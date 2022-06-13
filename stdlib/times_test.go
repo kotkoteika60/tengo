@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/d5/tengo/v2"
-	"github.com/d5/tengo/v2/require"
+	"github.com/kotkoteika60/tengo"
+	"github.com/kotkoteika60/tengo/require"
 )
 
 func TestTimes(t *testing.T) {

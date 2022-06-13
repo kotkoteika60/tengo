@@ -3,8 +3,8 @@ package tengo_test
 import (
 	"testing"
 
-	"github.com/d5/tengo/v2"
-	"github.com/d5/tengo/v2/require"
+	"github.com/kotkoteika60/tengo"
+	"github.com/kotkoteika60/tengo/require"
 )
 
 func TestSymbolTable(t *testing.T) {

@@ -4,9 +4,9 @@ import (
 	gojson "encoding/json"
 	"testing"
 
-	"github.com/d5/tengo/v2"
-	"github.com/d5/tengo/v2/require"
-	"github.com/d5/tengo/v2/stdlib/json"
+	"github.com/kotkoteika60/tengo"
+	"github.com/kotkoteika60/tengo/require"
+	"github.com/kotkoteika60/tengo/stdlib/json"
 )
 
 type ARR = []interface{}

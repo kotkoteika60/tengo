@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/d5/tengo/v2"
-	"github.com/d5/tengo/v2/require"
+	"github.com/kotkoteika60/tengo"
+	"github.com/kotkoteika60/tengo/require"
 )
 
 func TestReadFile(t *testing.T) {

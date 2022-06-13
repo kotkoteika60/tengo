@@ -7,10 +7,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/d5/tengo/v2"
-	"github.com/d5/tengo/v2/parser"
-	"github.com/d5/tengo/v2/require"
-	"github.com/d5/tengo/v2/stdlib"
+	"github.com/kotkoteika60/tengo"
+	"github.com/kotkoteika60/tengo/parser"
+	"github.com/kotkoteika60/tengo/require"
+	"github.com/kotkoteika60/tengo/stdlib"
 )
 
 func TestCompiler_Compile(t *testing.T) {
